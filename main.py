@@ -111,7 +111,7 @@ with open(file_path,'r') as csvfile:
 
 
 
-path = os.path.join("../PyBank", "Fin_Result_"+file_path[7:13]+".txt")
+path = os.path.join("PyBank", "Fin_Result_"+file_path[7:13]+".txt")
 
 
 
